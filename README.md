@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/BioPython-009688?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGS%20Tools-FF9800?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cytoscape-FF7043?style=for-the-badge"/>
 </p>
 
 ---
