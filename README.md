@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\hp\Downloads\ChatGPT Image Sep 6, 2025, 07_13_50 PM.png" alt="Eslam Hassan Bioinformatics Portfolio Banner"/>
+  <img src="https://chatgpt.com/s/m_68bc5e2c6a8c8191a706d72d94138434" alt="Eslam Hassan Bioinformatics Portfolio Banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Eslam Hassan</h1>
