@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Eslam-Hassan-Ragap/Eslam-Hassan-Ragap/blob/main/banner.png" alt="Eslam Hassan Bioinformatics Portfolio Banner" width="750" height="400"/>
+  <img src="https://github.com/Eslam-Hassan-Ragap/Eslam-Hassan-Ragap/blob/main/banner.png" alt="Eslam Hassan Bioinformatics Portfolio Banner" width="750" height="500"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Eslam Hassan</h1>
