@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=""C:\Users\hp\Downloads\ChatGPT Image Sep 6, 2025, 07_13_50 PM.png" alt="Eslam Hassan Bioinformatics Portfolio Banner"/>
+</p>
+
 <h1 align="center">👋 Hi, I'm Eslam Hassan</h1>
 
 <p align="center">
