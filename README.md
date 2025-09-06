@@ -11,21 +11,12 @@
 </p>
 
 ---
-## 🔬 Bioinformatics Tech Stack  
-
 <p align="center">
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
-  
-  <!-- R -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="80" height="80"/>
-  
-  <!-- DNA Helix GIF -->
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="DNA Helix" width="120" height="120"/>
-  
-  <!-- Bash -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.gif" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="80"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="DNA Helix"/>
 </p>
+
 
 ## 🧰 Skills & Tools  
 
