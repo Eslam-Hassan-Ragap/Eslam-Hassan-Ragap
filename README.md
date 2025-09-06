@@ -11,12 +11,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.gif" width="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="80"/>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="DNA Helix"/>
-</p>
-
 
 ## 🧰 Skills & Tools  
 
