@@ -11,6 +11,27 @@
 </p>
 
 ---
+## 🔬 Bioinformatics Tech Stack  
+
+<p align="center">
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70"/>
+  
+  <!-- R -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="70" height="70"/>
+  
+  <!-- Bash -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="70" height="70"/>
+  
+  <!-- DNA Helix (GIF animated) -->
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="DNA Helix" width="110" height="110"/>
+  
+  <!-- Genomics (NCBI / BLAST style icon) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/3069/3069171.png" alt="Genomics" width="70" height="70"/>
+  
+  <!-- Proteomics / Network Analysis -->
+  <img src="https://cdn-icons-png.flaticon.com/512/648/648144.png" alt="Proteomics" width="70" height="70"/>
+</p>
 
 ## 🧰 Skills & Tools  
 
